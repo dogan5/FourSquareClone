@@ -1,0 +1,6 @@
+framework module Pods_foursquareClone_foursquareCloneUITests {
+  umbrella header "Pods-foursquareClone-foursquareCloneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
